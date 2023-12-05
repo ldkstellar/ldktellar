@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Welecome!%20My%20storage&fontSize=90)
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=shark&color=#a80839&height=300&section=header&text=Welecome!&fontSize=90)
+
 
 <!--
 **ldkstellar/ldkstellar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
