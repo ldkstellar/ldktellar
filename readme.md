@@ -8,7 +8,7 @@
 <img alt="Static Badge"  src="https://img.shields.io/badge/react%20native%20-%20%23B7178C?logo=react&logoColor=white">
 </div>
 </div>
-<div style="flex:1;;justify-content:center;align-items:center">
+<div style="flex:1">
 <p style="text-align:center">Language</p>
 <img alt="Static Badge" src="https://img.shields.io/badge/html5-%23E34F26?logo=html5&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/css3%20-%20%231572B6?logo=css3&logoColor=white">
