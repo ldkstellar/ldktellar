@@ -3,9 +3,8 @@
 <div  style="display:flex;text-align:center">
     <div style="flex:1">
         <p style="text-align:center">Framework</p>
-    
-    <img alt="Static Badge" src="https://img.shields.io/badge/react%20-%20%2361DAFB?logo=react&logoColor=white">
-    <img alt="Static Badge" src="https://img.shields.io/badge/react%20native%20-%20%23B7178C?logo=react&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/react%20-%20%2361DAFB?logo=react&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/react%20native%20-%20%23B7178C?logo=react&logoColor=white">
 
     </div>
     <br></br>
