@@ -1,14 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=_hexcode&height=300&section=header&text=Welecome!&fontSize=70&fontColor=b21848)
 <h2 style="text-align:center">Technology stack</h2>
 
-<div style="display:flex;text-align:center">
-    <div style="flex:1">
+<div style="display:flex">
+    
         <p style="text-align:center">Framework</p>
         <img alt="Static Badge" src="https://img.shields.io/badge/react%20-%20%2361DAFB?logo=react&logoColor=white"></img>
         <img alt="Static Badge" src="https://img.shields.io/badge/react%20native%20-%20%23B7178C?logo=react&logoColor=white"></img>
-    </div>
+    
    
-  <p style="text-align:center">Language</p>
+<p style="text-align:center">Language</p>
 <img alt="Static Badge" src="https://img.shields.io/badge/html5-%23E34F26?logo=html5&logoColor=white"></img>
 <img alt="Static Badge" src="https://img.shields.io/badge/css3%20-%20%231572B6?logo=css3&logoColor=white"></img>
 <img alt="Static Badge" src="https://img.shields.io/badge/javascript%20-%20%23F7DF1E?logo=javascript&logoColor=white"></img>
