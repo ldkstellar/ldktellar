@@ -1,12 +1,12 @@
-
 ![header](https://capsule-render.vercel.app/api?type=shark&color=_hexcode&height=300&section=header&text=Welecome!&fontSize=70&fontColor=b21848)
 
 <h2 style="text-align:center">Technology stack</h2>
-<div  style="text-align:center">
-<p style="text-align:center">Framework</p>
-<img alt="Static Badge"  src="https://img.shields.io/badge/react%20-%20%2361DAFB?logo=react&logoColor=white">
-<img alt="Static Badge"  src="https://img.shields.io/badge/react%20native%20-%20%23B7178C?logo=react&logoColor=white">
-</div>
+    <div  style="text-align:center">
+        <p style="text-align:center">Framework</p>
+        <img alt="Static Badge"  src="https://img.shields.io/badge/react%20-%20%2361DAFB?logo=react&logoColor=white">
+        <img alt="Static Badge"  src="https://img.shields.io/badge/react%20native%20-%20%23B7178C?logo=react&logoColor=white">
+    </div>
+
 <div style="flex:1;;justify-content:center;align-items:center">
 <p style="text-align:center">Language</p>
 <img alt="Static Badge" src="https://img.shields.io/badge/html5-%23E34F26?logo=html5&logoColor=white">
@@ -17,9 +17,8 @@
 </div>
 </div>
 
-
 <h2 style="text-align:center">Standard stack</h2>
-<div  style="display:flex;text-align:center">
+<div  style="text-align:center">
     <div style="flex:1">
         <p style="text-align:center">Framework</p>
 <div>
