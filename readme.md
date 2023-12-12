@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=_hexcode&height=300&section=header&text=Welecome!&fontSize=70&fontColor=b21848)
 
 
-<!--
+
 **ldkstellar/ldkstellar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
