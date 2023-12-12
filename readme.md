@@ -15,7 +15,7 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/javascript%20-%20%23F7DF1E?logo=javascript&logoColor=white"></img>
         <img alt="Static Badge" src="https://img.shields.io/badge/typescript%20-%20%233178C6?logo=typescript&logoColor=purple"></img>
     </div>
-</div>
+
 
 
 <h2 style="text-align:center">Standard stack</h2>
