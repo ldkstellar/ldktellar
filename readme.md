@@ -3,19 +3,18 @@
 <div  style="display:flex;text-align:center">
     <div style="flex:1">
         <p style="text-align:center">Framework</p>
-<div>
-<img alt="Static Badge"  src="https://img.shields.io/badge/react%20-%20%2361DAFB?logo=react&logoColor=white">
-<img alt="Static Badge"  src="https://img.shields.io/badge/react%20native%20-%20%23B7178C?logo=react&logoColor=white">
-</div>
-</div>
-<div style="flex:1">
-<p style="text-align:center">Language</p>
-<img alt="Static Badge" src="https://img.shields.io/badge/html5-%23E34F26?logo=html5&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/css3%20-%20%231572B6?logo=css3&logoColor=white">
+    
+        <img alt="Static Badge"  src="https://img.shields.io/badge/react%20-%20%2361DAFB?logo=react&logoColor=white">
+        <img alt="Static Badge"  src="https://img.shields.io/badge/react%20native%20-%20%23B7178C?logo=react&logoColor=white">
 
-<img alt="Static Badge" src="https://img.shields.io/badge/javascript%20-%20%23F7DF1E?logo=javascript&logoColor=white">
-<img alt="Static Badge" src="https://img.shields.io/badge/typescript%20-%20%233178C6?logo=typescript&logoColor=purple">
-</div>
+    </div>
+    <div style="flex:1">
+        <p style="text-align:center">Language</p>
+        <img alt="Static Badge" src="https://img.shields.io/badge/html5-%23E34F26?logo=html5&logoColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/css3%20-%20%231572B6?logo=css3&logoColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/javascript%20-%20%23F7DF1E?logo=javascript&logoColor=white">
+        <img alt="Static Badge" src="https://img.shields.io/badge/typescript%20-%20%233178C6?logo=typescript&logoColor=purple">
+    </div>
 </div>
 
 
