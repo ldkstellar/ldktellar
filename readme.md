@@ -15,11 +15,7 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/typescript%20-%20%233178C6?logo=typescript&logoColor=purple">
 </div>
 
-<h2 style="text-align:center">Standard stack</h2>
-<div  style="text-align:center">
-    <p style="text-align:center">Framework</p>
-    <img alt="Static Badge" src="https://img.shields.io/badge/springboot%20-%236DB33F?logo=springboot&logoColor=white">
-</div>
+
 
 <div style="text-align:center">
     <p style="text-align:center">Language &db</p>
