@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=blue&height=300&section=header&text=Welecome!&fontSize=70&fontColor=99ccff)
+![header](https://capsule-render.vercel.app/api?type=shark&Color=blue&height=300&section=header&text=Welecome!&fontSize=70&fontColor=99ccff)
 
 <h2 style="text-align:center">Technology stack</h2>
     <div  style="text-align:center">
