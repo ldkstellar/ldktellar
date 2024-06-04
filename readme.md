@@ -2,7 +2,7 @@
 
 <h2 style="text-align:center">Technology stack</h2>
     <div  style="text-align:center">
-        <p style="text-align:center">Framework</p>
+        <p style="text-align:center">library</p>
         <img alt="Static Badge"  src="https://img.shields.io/badge/react%20-%20%2361DAFB?logo=react&logoColor=white">
         <img alt="Static Badge"  src="https://img.shields.io/badge/react%20native%20-%20%23B7178C?logo=react&logoColor=white">
     </div>
