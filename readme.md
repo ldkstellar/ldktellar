@@ -18,6 +18,8 @@
      <img alt="Static Badge" src="https://img.shields.io/badge/styleComponent%20-%20%233178C6?logo=styledcomponents&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/javascript%20-%20%23F7DF1E?logo=javascript&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/typescript%20-%20%233178C6?logo=typescript&logoColor=purple">
+  <img alt="Static Badge" src="https://img.shields.io/badge/reactQuery%20-%20%233178C6?logo=react Query&logoColor=purple">
+ <img alt="Static Badge" src="https://img.shields.io/badge/react Hook Form%20-%20%233178C6?logo=react Hook Form&logoColor=purple">
 </div>
 
 
