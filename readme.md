@@ -19,10 +19,9 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/javascript%20-%20%23F7DF1E?logo=javascript&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/typescript%20-%20%233178C6?logo=typescript&logoColor=purple">
   <img alt="Static Badge" src="https://img.shields.io/badge/reactQuery%20-%20%233178C6?logo=react Query&logoColor=purple">
- <img alt="Static Badge" src="https://img.shields.io/badge/react Hook Form%20-%20%233178C6?logo=react Hook Form&logoColor=purple">
+ <img alt="Static Badge" src="https://img.shields.io/badge/react Hook Form%20-%20%233178C6?logo=reacthookform&logoColor=purple">
+      <img alt="Static Badge" src="https://img.shields.io/badge/tailwindcss%20-%20%233178C6?logo=tailwindcss&logoColor=white">
 </div>
-
-
 
 <div style="text-align:center">
     <p style="text-align:center">Language &db</p>
