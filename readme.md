@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&Color=blue&height=300&section=header&text=Welecome!&fontSize=70&fontColor=c0c0c0)
 
 <h2 style="text-align:center">Technology stack</h2>
+ <div  style="text-align:center">
+        <p style="text-align:center">FrameWork</p>
+        <img alt="Static Badge"  src="https://img.shields.io/badge/react%20native%20-%20%23B7178C?logo=next.js&logoColor=white">
+    </div>
     <div  style="text-align:center">
         <p style="text-align:center">Library</p>
         <img alt="Static Badge"  src="https://img.shields.io/badge/react%20-%20%2361DAFB?logo=react&logoColor=white">
