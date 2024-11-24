@@ -26,7 +26,7 @@
 <div style="text-align:center">
     <p style="text-align:center">Language &db</p>
     <img alt="Static Badge" src="https://img.shields.io/badge/c-%23A8B9CC?logo=c&logoColor=white">
-    <img alt="Static Badge" src="https://img.shields.io/badge/java%20-%236DB33F?logo=java&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/c++%20-%236DB33F?logo=c++&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/mysql%20-%20%234479A1?logo=mysql&logoColor=white">
 </div>
 
